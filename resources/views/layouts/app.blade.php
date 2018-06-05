@@ -11,7 +11,7 @@
         {!! Html::script('/assets/js/jquery.min.js')!!}
         <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
         <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900' rel='stylesheet' type='text/css'>
-        <title>SOUQ EGYPTE |   @yield('title') </title>
+        <title>One |   @yield('title') </title>
         @yield('header')
      
 </head>
